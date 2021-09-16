@@ -11,7 +11,7 @@ namespace Day4_SnakeLadder
             int player1;
             Random rd = new Random();
             player1 = rd.Next(1, 7);
-            Console.WriteLine("The player1 gets the random dice number is: " + player1);
+            Console.WriteLine("The player1 gets the dice number is: " + player1);
 
         }
     }
